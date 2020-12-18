@@ -25,6 +25,9 @@ class SoldProductsDetailsActivity : AppCompatActivity() {
         }
 
         println("Hello world")
+        println("Hello world")
+        println("Hello world")
+        println("Hello world")
 
 
 
