@@ -23,8 +23,9 @@ class SoldProductsDetailsActivity : AppCompatActivity() {
             productDetails =
                 intent.getParcelableExtra<SoldProduct>(Constans.EXTRA_SOLD_PRODUCT_DETAILS)!!
         }
+
         println("Hello world")
-        println("Hello world")
+
 
 
         setupActionBar()
